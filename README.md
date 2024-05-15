@@ -15,6 +15,7 @@ I am a passionate coder and database enthusiast, always eager to tackle complex 
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FAB734028C3621FD472061852664198157CD7FC017F398F1638E9E3E6936E599&fbclid=IwAR3EpW9FbGmSE_foCQbrG2MbVazLqJ7cVZ75_jvew8abDKUONf87J6g-HJE
 )
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/0dc390e327b14a299d4a6a48b1d05e83)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/85bbe1510b99401cad07406f5a3dab42?fbclid=IwAR3LicD4A1EvL2-1HRDjJpi6XkHMMGIpR4AjUXBYDNfx12C7xI2E5RQ8S6w)
 
 ## Skill Sets
 - Programming: Java, JavaScript
